@@ -3,8 +3,7 @@ This reposite implements a FIR filter designing for lowpass, highpass, bandpass,
 
 To ease the compilation of the C++ class, a simple Makefile is created.
 
-    cd /path/to/FIR_filter
-    
+    cd /path/to/FIR_filter 
     make
 
 The makefile compiles the C++ class and create the python module. Then the python package can be simply improted in a script.
