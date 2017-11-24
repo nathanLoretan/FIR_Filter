@@ -54,7 +54,7 @@ Get the coefficients calculated for the specific filter.
 
 __Return__
 
-The coefficients used by the FIR filter.
+*The coefficients used by the FIR filter.*
 
 - - - -
 
@@ -65,7 +65,7 @@ Filter the new sample given to the FIR filter.
 
 __Return__
 
-Result of the sampling
+*Result of the sampling*
 
 __Parameters__
 
