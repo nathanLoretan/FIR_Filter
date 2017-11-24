@@ -65,7 +65,7 @@ Filter the new sample given to the FIR filter.
 
 __Return__
 
-*Result of the sampling*
+*Result of the filtering*
 
 __Parameters__
 
