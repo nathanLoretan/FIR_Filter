@@ -14,7 +14,8 @@ To ease the compilation of the C++ class, a simple Makefile is created.
     $ make
 
 The makefile compiles the C++ class and create the python module. Then the python
-package can be simply improted in a script.
+package can be simply improted. The FIR filter class is not compiled in the
+reposite.
 
 ## Demo ##
 
