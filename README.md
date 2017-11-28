@@ -41,8 +41,8 @@ Create an FIR_filter object.
 __Parameters__
 
 * *[in] taps    : number taps used by the filter*
-* *[in] f1      : 1st cut frequencies*
-* *[in] f2      : 2st cut frequencies, used only with bandstop and passband*
+* *[in] f1      : 1st cut frequency normalized*
+* *[in] f2      : 2st cut frequency normalized, used only with bandstop and passband*
 * *[in] type    : type of filter (lowpass, highpass, bandpass, stopband)*
 * *[in] window  : window function possible (hamming, hanning, triangle, blackman)*
 
