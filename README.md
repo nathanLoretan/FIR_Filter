@@ -13,6 +13,13 @@ To ease the compilation of the C++ class, a simple Makefile is created.
     $ cd /path/to/FIR_filter
     $ make
 
+By default, the Makefile compile using python3 but it is possible to specify
+the version python2.7 or python3. It is important to clean the project if the
+python version is changed.
+
+    $ make python3.5
+    $ make python2.7
+
 The makefile compiles the C++ class and create the python module. Then the python
 package can be simply improted. The FIR filter class is not compiled in the
 reposite.
