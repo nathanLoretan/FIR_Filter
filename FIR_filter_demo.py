@@ -1,15 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Oct 03 23:39:34 2017
-
-@author: Nathan Loretan
-         MSc Computer System Engineering
-         University of Glasgow
-
-Digital Signal Processing
-Assignment 2 Question 1
-"""
-
 import numpy as np
 import matplotlib.pyplot as plt
 from FIR_filter.fir_filter import FIR_filter
